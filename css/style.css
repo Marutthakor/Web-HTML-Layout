@@ -1,0 +1,234 @@
+body,html{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.homepage{
+    width: 100%;
+    height: 100%;
+    background-color: #656464;
+}
+
+.hedmain{
+    width: 100%;
+    height: 65px;
+    background-color: black;
+    overflow: auto;
+    position: fixed;
+    }
+
+.hedclas{
+    width: 33%;
+margin: 0;
+    color: white;
+    float: left;
+left: 0;
+    
+
+}
+.logo{
+    float: left;
+    
+}
+.logo1
+{
+    top:20%;
+    right: 0;
+left: 0;
+    bottom: 0;
+    position: absolute;
+    width: 40%;
+    float: left;
+}
+
+.tex{
+    color: white;
+}
+*{
+ margin: 0;   
+    text-align: center;
+}
+.contact{
+    width: 30%;
+    top: 20%;
+    position: absolute;
+    text-align: center;
+}
+.contact1{
+    width: 30%;
+    top: 30%;
+    position: absolute;
+    text-align: center;
+    right: 20%;
+}
+.callme{
+    background-color: dimgrey;
+    right: 20px;
+    position: absolute;
+    top: 20%;
+    padding: 10px;
+    
+}
+
+.kancho{
+    width: 60%;
+    height: 30%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    color: white;
+    position: absolute;
+    text-align: center;
+    }
+.kancho1{
+    width: 90%;
+    color: white;
+    margin: auto;
+    padding: 20px;
+}
+.getstart{
+    padding: 10px;
+    background-color:#506df5 ;
+}
+.getstart1{
+
+    padding: 10px;
+    background-color:violet;
+    }
+.workmain{
+    width: 80%;
+    overflow: auto;
+padding: 5%;
+    margin: auto;
+    text-align: center;
+    position: relative;
+}
+
+.work{
+    width: 32%;
+    float: left;
+    margin: auto;
+     padding: 5px;
+}
+
+.workhe{
+    padding: 5px;
+}
+.workin{
+        padding: 5px;
+
+}
+.workin1{
+    padding: 20px;
+}
+.workin2{
+    padding: 20px;
+}
+.getstartin{
+    padding: 5px;
+    color: white;
+    background-color:#506df5 ;
+}
+
+.Advantages{
+    width: 100%;
+    height: 100%;
+    background-color: #656464;
+}
+
+.advant{
+    background-color: #aa9e7b;
+}
+.contain{
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    text-align: left;
+}
+.facility{
+    width: 100%;
+padding: 20px;
+}
+.facilityin{
+ width: 25%;
+    display: inline-block;
+    background-color: white;
+margin: 20px;
+    
+}
+
+
+.tool{
+    padding: 5px;
+
+    text-align: left;
+}
+
+.toolin{
+ text-align: left;
+    padding: 20px;
+}
+.readmore{
+    text-align: left;
+    margin: 20px;
+    color: white;
+    background-color:#506df5 ;
+    right: 20px;
+    top: 20%;
+    padding: 10px;
+}
+h1{
+    margin: 0px;
+}
+
+.team{
+    width: 100%;
+
+}
+
+.teamin{
+    background-color: wheat;
+    
+}
+
+
+.teamdo{
+    width: 90%;
+    margin: auto;
+padding: 10px;
+    
+}
+.teamdone{
+ width: 40%;
+    margin: 20px;
+display: inline-block;
+    background-color: white;
+    }
+
+.jena{
+    width: 50%;
+    overflow: auto;
+    float: left;
+    padding: 10px;
+}
+.jenaimg{
+    width: 50%;
+    overflow: auto;
+    float: right;
+}
+.jenihed{
+    padding: 5px;
+    text-align: left;
+    width: 90%;
+    margin: auto;
+}
+
+.jenicon{
+ text-align: left;
+    padding: 20px;
+}
